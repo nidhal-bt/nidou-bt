@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img src="Images/computer-illustration.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computer">
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nidhal Ben taarit
+Hi ! 👋 My name is Nidhal Ben taarit
 =========================================================================================================================================
 I am a Full stack web developer at OVC.
 
