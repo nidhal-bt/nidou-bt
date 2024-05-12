@@ -15,7 +15,7 @@ Playing Video games <br />
 - 👀 I’m interested in exploring best practices for React architecture to build the next generation of web applications.
 - 🌱 I’m currently learning Nest JS
 - 📫 How to reach me: bentaaritnidhal@gmail.com
-- 🙋‍♂️ All about me is at **My Website: https://www.linkedin.com/in/nidhal-ben-taarit/**
+- 🙋‍♂️ All about me is at **My Linkedin: https://www.linkedin.com/in/nidhal-ben-taarit/**
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
 ## Technologies
