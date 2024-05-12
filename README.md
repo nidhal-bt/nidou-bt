@@ -20,18 +20,19 @@ Playing Video games <br />
 ## Technologies
 
 <p align="left">
-  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-  <img alt="Next-js" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" width="36" height="36"/>
-  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img alt="Typescript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36"/>
-  <img alt="Html" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36"/>
-  <img alt="Css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="36" width="36">  
-  <img alt="Tailwind" src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" height="36" width="36">
-  <img alt="Node-js" src="https://img.icons8.com/fluency/512/node-js.png" width="36" height="36"/>
-  <img alt="Express-js" src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo.png" width="36" height="36"/>
-  <img alt="Nest-js" src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png" width="36" height="36"/>
-  <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-  <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-  <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-  <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+  <img alt="React" width="36" height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+  <img alt="Next-js" width="36" height="36" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" />
+  <img alt="JavaScript" width="36" height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img alt="Typescript" width="36" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" />
+  <img alt="Html" width="36" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" />
+  <img alt="Css" width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" >  
+  <img alt="Tailwind" width="36" height="36" src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" >
+  <img alt="Node-js" width="36" height="36" src="https://img.icons8.com/fluency/512/node-js.png" />
+  <img alt="Express-js" width="36" height="36" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" />
+  <img alt="Nest-js" width="36" height="36" src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png" />
+  <img alt="Trpc" width="36" height="36" src="https://avatars.githubusercontent.com/u/78011399?s=280&v=4" />
+  <img alt="GraphQL" width="36" height="36"" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+  <img alt="SQL" width="36" height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+  <img alt="MySQL" width="36" height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+  <img alt="Git" width="36" height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </p>
